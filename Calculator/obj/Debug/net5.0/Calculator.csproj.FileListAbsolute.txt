@@ -1,0 +1,16 @@
+/home/marcondes/workspaces/balta/Calculator/bin/Debug/net5.0/Calculator
+/home/marcondes/workspaces/balta/Calculator/bin/Debug/net5.0/Calculator.deps.json
+/home/marcondes/workspaces/balta/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.json
+/home/marcondes/workspaces/balta/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.dev.json
+/home/marcondes/workspaces/balta/Calculator/bin/Debug/net5.0/Calculator.dll
+/home/marcondes/workspaces/balta/Calculator/bin/Debug/net5.0/ref/Calculator.dll
+/home/marcondes/workspaces/balta/Calculator/bin/Debug/net5.0/Calculator.pdb
+/home/marcondes/workspaces/balta/Calculator/obj/Debug/net5.0/Calculator.csproj.AssemblyReference.cache
+/home/marcondes/workspaces/balta/Calculator/obj/Debug/net5.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcondes/workspaces/balta/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfoInputs.cache
+/home/marcondes/workspaces/balta/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfo.cs
+/home/marcondes/workspaces/balta/Calculator/obj/Debug/net5.0/Calculator.csproj.CoreCompileInputs.cache
+/home/marcondes/workspaces/balta/Calculator/obj/Debug/net5.0/Calculator.dll
+/home/marcondes/workspaces/balta/Calculator/obj/Debug/net5.0/ref/Calculator.dll
+/home/marcondes/workspaces/balta/Calculator/obj/Debug/net5.0/Calculator.pdb
+/home/marcondes/workspaces/balta/Calculator/obj/Debug/net5.0/Calculator.genruntimeconfig.cache

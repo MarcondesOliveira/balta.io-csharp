@@ -1,0 +1,16 @@
+/home/marcondes/workspaces/balta/Teste/bin/Debug/net5.0/Teste
+/home/marcondes/workspaces/balta/Teste/bin/Debug/net5.0/Teste.deps.json
+/home/marcondes/workspaces/balta/Teste/bin/Debug/net5.0/Teste.runtimeconfig.json
+/home/marcondes/workspaces/balta/Teste/bin/Debug/net5.0/Teste.runtimeconfig.dev.json
+/home/marcondes/workspaces/balta/Teste/bin/Debug/net5.0/Teste.dll
+/home/marcondes/workspaces/balta/Teste/bin/Debug/net5.0/ref/Teste.dll
+/home/marcondes/workspaces/balta/Teste/bin/Debug/net5.0/Teste.pdb
+/home/marcondes/workspaces/balta/Teste/obj/Debug/net5.0/Teste.csproj.AssemblyReference.cache
+/home/marcondes/workspaces/balta/Teste/obj/Debug/net5.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcondes/workspaces/balta/Teste/obj/Debug/net5.0/Teste.AssemblyInfoInputs.cache
+/home/marcondes/workspaces/balta/Teste/obj/Debug/net5.0/Teste.AssemblyInfo.cs
+/home/marcondes/workspaces/balta/Teste/obj/Debug/net5.0/Teste.csproj.CoreCompileInputs.cache
+/home/marcondes/workspaces/balta/Teste/obj/Debug/net5.0/Teste.dll
+/home/marcondes/workspaces/balta/Teste/obj/Debug/net5.0/ref/Teste.dll
+/home/marcondes/workspaces/balta/Teste/obj/Debug/net5.0/Teste.pdb
+/home/marcondes/workspaces/balta/Teste/obj/Debug/net5.0/Teste.genruntimeconfig.cache
