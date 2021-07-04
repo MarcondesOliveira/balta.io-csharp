@@ -1,0 +1,16 @@
+/home/marcondes/workspaces/balta/TextEditor/bin/Debug/net5.0/TextEditor
+/home/marcondes/workspaces/balta/TextEditor/bin/Debug/net5.0/TextEditor.deps.json
+/home/marcondes/workspaces/balta/TextEditor/bin/Debug/net5.0/TextEditor.runtimeconfig.json
+/home/marcondes/workspaces/balta/TextEditor/bin/Debug/net5.0/TextEditor.runtimeconfig.dev.json
+/home/marcondes/workspaces/balta/TextEditor/bin/Debug/net5.0/TextEditor.dll
+/home/marcondes/workspaces/balta/TextEditor/bin/Debug/net5.0/ref/TextEditor.dll
+/home/marcondes/workspaces/balta/TextEditor/bin/Debug/net5.0/TextEditor.pdb
+/home/marcondes/workspaces/balta/TextEditor/obj/Debug/net5.0/TextEditor.csproj.AssemblyReference.cache
+/home/marcondes/workspaces/balta/TextEditor/obj/Debug/net5.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcondes/workspaces/balta/TextEditor/obj/Debug/net5.0/TextEditor.AssemblyInfoInputs.cache
+/home/marcondes/workspaces/balta/TextEditor/obj/Debug/net5.0/TextEditor.AssemblyInfo.cs
+/home/marcondes/workspaces/balta/TextEditor/obj/Debug/net5.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/marcondes/workspaces/balta/TextEditor/obj/Debug/net5.0/TextEditor.dll
+/home/marcondes/workspaces/balta/TextEditor/obj/Debug/net5.0/ref/TextEditor.dll
+/home/marcondes/workspaces/balta/TextEditor/obj/Debug/net5.0/TextEditor.pdb
+/home/marcondes/workspaces/balta/TextEditor/obj/Debug/net5.0/TextEditor.genruntimeconfig.cache
